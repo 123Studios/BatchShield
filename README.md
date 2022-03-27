@@ -20,4 +20,9 @@ Substituite characters with a random sequence.
 Create seperate process in temp that contains code that you would like to be ran.
 
 # Junk Variables
-Inject junk function calls inbetween characters to hide what is be run. (Example: (Before) echo Hello World. (After) %ctgvaj%e%zoefub%c%hoofpk%h%fmifer%o %ssacbx%H%dzxgvv%e%yicftt%l%nuueed%l%ycdsbd%o %fwopci%W%jxngbv%o%dattgh%r%hzspsj%l%xnowdy%d
+Inject junk function calls inbetween characters to hide what is be run. 
+<p>(Example: (Before) "echo Hello World". (After) "%ctgvaj%e%zoefub%c%hoofpk%h%fmifer%o %ssacbx%H%dzxgvv%e%yicftt%l%nuueed%l%ycdsbd%o %fwopci%W%jxngbv%o%dattgh%r%hzspsj%l%xnowdy%d")</p>
+
+# Unreadable From Notepad
+Use certain byte to make notepad think it different type of file to make characters look strange.
+
